@@ -1,2 +1,2 @@
-# Zigye
+# Fatec
 Development and Studies
